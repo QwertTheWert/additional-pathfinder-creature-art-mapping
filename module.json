@@ -1,0 +1,15 @@
+{
+  "id": "additional-pathfinder-creature-art-mapping",
+  "title": "Additional Pathfinder Creature Art Mapping",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "QwertTheWert",
+      "flags": {}
+    }
+  ]
+}
